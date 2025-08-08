@@ -1,0 +1,14 @@
+# Core data analysis and manipulation
+pandas
+numpy
+
+# Statistical analysis and econometrics
+statsmodels
+
+# Data visualization
+matplotlib
+plotly
+dtale
+
+# Excel file handling
+openpyxl
